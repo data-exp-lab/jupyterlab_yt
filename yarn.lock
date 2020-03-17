@@ -43,6 +43,11 @@
     classnames "^2.2"
     tslib "~1.9.0"
 
+"@data-exp-lab/yt-tools@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@data-exp-lab/yt-tools/-/yt-tools-0.3.1.tgz#80c6f48a389df204fa625796f8faa9cb0a39bf74"
+  integrity sha512-mtom9M/PnYs79qSmY07wosfomaifKUfxdumJN0mLYZCbEfhCqkNg8Vkq2hc2wxjStt+0BM0Rxkjqo5UKsbOAYQ==
+
 "@jupyterlab/application@^1.0.0":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-1.1.3.tgz#eaf0711649b73cd2bb44f44f3e99a82107ae1957"
@@ -659,9 +664,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0, minimist@~1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.0.tgz#a35008b20f41383eec1fb914f4cd5df79a264284"
-  integrity sha1-o1AIsg9BOD7sH7kU9M1d95omQoQ=
+  version "1.2.5"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
 
 moment@^2.24.0:
   version "2.24.0"
