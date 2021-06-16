@@ -43,6 +43,11 @@
     classnames "^2.2"
     tslib "~1.9.0"
 
+"@data-exp-lab/yt-tools@^0.3.1":
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@data-exp-lab/yt-tools/-/yt-tools-0.3.1.tgz#80c6f48a389df204fa625796f8faa9cb0a39bf74"
+  integrity sha512-mtom9M/PnYs79qSmY07wosfomaifKUfxdumJN0mLYZCbEfhCqkNg8Vkq2hc2wxjStt+0BM0Rxkjqo5UKsbOAYQ==
+
 "@jupyterlab/application@^1.0.0":
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/@jupyterlab/application/-/application-1.1.3.tgz#eaf0711649b73cd2bb44f44f3e99a82107ae1957"
@@ -711,9 +716,9 @@ popper.js@^1.14.4, popper.js@^1.15.0:
   integrity sha512-w010cY1oCUmI+9KwwlWki+r5jxKfTFDVoadl7MSrIujHU5MJ5OR6HTDj6Xo8aoR/QsA56x8jKjA59qGH4ELtrA==
 
 postcss@^7.0.5:
-  version "7.0.18"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.18.tgz#4b9cda95ae6c069c67a4d933029eddd4838ac233"
-  integrity sha512-/7g1QXXgegpF+9GJj4iN7ChGF40sYuGYJ8WZu8DZWnmhQ/G36hfdk3q9LBJmoK+lZ+yzZ5KYpOoxq7LF1BxE8g==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
